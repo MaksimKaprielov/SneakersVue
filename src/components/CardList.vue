@@ -9,11 +9,5 @@ const onClickAdd = () => {
 <template>
     <div class="grid grid-cols-4 gap-5">
         <Card title="Мужские кроссовки Nike Blazer Mid Suede" imageUrl="/sneakers/sneakers-1.jpg" :price="1205" :isAdded="true" :isFavourite="false" :onClickAdd="onClickAdd" />
-        <Card title="Мужские кроссовки Nike Blazer Mid Suede" imageUrl="/sneakers/sneakers-1.jpg" :price="1205" :isAdded="true" :isFavourite="false" :onClickAdd="onClickAdd" />
-        <Card title="Мужские кроссовки Nike Blazer Mid Suede" imageUrl="/sneakers/sneakers-1.jpg" :price="1205" :isAdded="true" :isFavourite="false" :onClickAdd="onClickAdd" />
-        <Card title="Мужские кроссовки Nike Blazer Mid Suede" imageUrl="/sneakers/sneakers-1.jpg" :price="1205" :isAdded="true" :isFavourite="false" :onClickAdd="onClickAdd" />
-        <Card title="Мужские кроссовки Nike Blazer Mid Suede" imageUrl="/sneakers/sneakers-1.jpg" :price="1205" :isAdded="true" :isFavourite="false" :onClickAdd="onClickAdd" />
-        <Card title="Мужские кроссовки Nike Blazer Mid Suede" imageUrl="/sneakers/sneakers-1.jpg" :price="1205" :isAdded="true" :isFavourite="false" :onClickAdd="onClickAdd" />
-        <Card title="Мужские кроссовки Nike Blazer Mid Suede" imageUrl="/sneakers/sneakers-1.jpg" :price="1205" :isAdded="true" :isFavourite="false" :onClickAdd="onClickAdd" />
     </div>
 </template>
