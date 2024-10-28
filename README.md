@@ -3,5 +3,5 @@
 
 Стек используемых технологий:
 ```
-HTML, CSS, JS, VUE, TAILWIND
+HTML, CSS, JS, VUE, TAILWIND, Axios, MOKKY.DEV
 ```
